@@ -19,7 +19,7 @@ Code release for Top-Down-Spatial-Attention-Loss
 
 ## Training
 - Download datasets
-- Train: `python CUB-200-2011_TDSA.py`
+- Train: `python Birds_TDSA_Loss.py`
 - Description : PyTorch CUB-200-2011 Training with VGG16 (TRAINED FROM SCRATCH).
 
 
