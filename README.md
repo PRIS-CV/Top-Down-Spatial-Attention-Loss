@@ -1,7 +1,7 @@
 # Top-Down-Spatial-Attention-Loss
 
 Code release for Top-Down-Spatial-Attention-Loss
-[DOI](https:// "DOI")
+[arXiv](https://arxiv.org/pdf/2102.00367.pdf "DOI")
 
 
 ## Changelog
@@ -28,7 +28,13 @@ Code release for Top-Down-Spatial-Attention-Loss
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-
+@article{chang2021TOP,
+  title={Fine-Grained Visual Classification via Simultaneously Learning of
+  Multi-regional Multi-grained Features},
+  author={Chang, Dongliang and Zheng, Yixiao and Ma, Zhanyu and Du, Ruoyi and Liang, Kongming},
+  journal={arXiv preprint arXiv:2102.00367},
+  year={2021}
+}
 ```
 
 
